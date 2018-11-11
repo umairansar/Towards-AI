@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/AI-news"
+            android:title="AI-news" />
+        <item
+            android:id="@+id/wired"
+            android:title="WIRED" />
+        <item
+            android:id="@+id/futurism"
+            android:title="Futurism" />
+
+        <item
+            android:id="@+id/mywebsite"
+            android:title="Personal Blog"
+            />
+    </group>
+</menu>
