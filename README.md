@@ -5,3 +5,7 @@ Since todays AI is less consumer-based as compared to an Android application, th
 
 This production falls under the jurisdiction of M/s Edlytica, a Pakistani startup which serves the developmental solutions at an international platform.
 This app includes the functionality to view the top Machine Learning Channels from YouTube using the Google’s own YouTube API. 
+
+### Activities
+Follow the link to dive straight into code.
+https://github.com/umairansar/Towards-AI/tree/master/app/src/main/java/com/example/ansarfarid/myapplication
