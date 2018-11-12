@@ -10,3 +10,6 @@ This app includes the functionality to view the top Machine Learning Channels fr
 Follow the link to dive straight into code.
 
 https://github.com/umairansar/Towards-AI/tree/master/app/src/main/java/com/example/ansarfarid/myapplication
+
+### Components
+- Splash Screen - which displays for 2 second everytime the app runs.
