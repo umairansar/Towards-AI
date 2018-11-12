@@ -11,6 +11,11 @@ Follow the link to dive straight into code.
 
 https://github.com/umairansar/Towards-AI/tree/master/app/src/main/java/com/example/ansarfarid/myapplication
 
+### Visiualize
+See the final product in a short video clip at YouTube.
+
+https://youtu.be/1FJtycfFfaM
+
 ### Components
 - Splash Screen - which displays for 2 second everytime the app runs
 - Main Screen - the home page listing four buttons which take us to the next screens
