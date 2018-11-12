@@ -12,4 +12,8 @@ Follow the link to dive straight into code.
 https://github.com/umairansar/Towards-AI/tree/master/app/src/main/java/com/example/ansarfarid/myapplication
 
 ### Components
-- Splash Screen - which displays for 2 second everytime the app runs.
+- Splash Screen - which displays for 2 second everytime the app runs
+- Main Screen - the home page listing four buttons which take us to the next screens
+- Listview/ Category page - it lists all the availible videos concerning AI currently availible
+- Embedded Video Player Screen - it plays the youtube videos directly into the app
+- Sliding Navigation Menu - lists all the availible AI newsletters that can be accessed directly within an app
