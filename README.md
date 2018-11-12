@@ -26,13 +26,22 @@ https://youtu.be/1FJtycfFfaM
 
 ### Mathedology
 - The main activity contains 4 graphic buttons for UI enhancement.
+
 - Clicking these buttons takes us to a new activity having a list of all related videos under that category (of the button clicked).
+
 - The number of activities (new different app screens) is equal to the number of channels - in our case its 4 (Robotics, AI, Astronomy, Change).
+
 - Thus each different button takes us to a different activity (having different data).
+
 - List is implemented using listview's builtin layout "simple_list_item_1." 
+
 - Listview has data fetched from SQLite databse class to which itself is populated at the time of exxecution.
+
 - Clicking a single item on list takes us to our final activity of the project: Youtube Media Player.
-- Unlike different activities for all 4 video types, each distinct video does not has its own seperate Youtube Media Player activity/class, which would make this project frustratingly memory consuming and slow (it would also make this project development many times difficult and time-consuming).
+
+- Unlike different activities for all 4 video types, each distinct video does not has its own seperate Youtube Media Player activity/class, which would make this project frustratingly memory consuming and slow (it would also make this project development many times difficult and time-consuming)
+
+- Every button click event loads the video name and path to the in-app-embedded media player which loads the Youtube video via internet and plays it in our app.
 
 ### Future Work
 Followinng are the remaining components that when accomplished would fit for consumer needs, which includes potentially transforming it into my current school's weekly newsletter for school updates and article distribution.
