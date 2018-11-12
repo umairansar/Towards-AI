@@ -8,4 +8,5 @@ This app includes the functionality to view the top Machine Learning Channels fr
 
 ### Activities
 Follow the link to dive straight into code.
+
 https://github.com/umairansar/Towards-AI/tree/master/app/src/main/java/com/example/ansarfarid/myapplication
