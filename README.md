@@ -1,5 +1,5 @@
 # Towards-AI
-Built for the purpose of promotion for Artificial Intelligence, Towards AI is an enterprise towards a greater focus on product-based AI-centric enthusiasts, bringing all the latest happenings under the field AI, and more generally technology, in one space. This app features an all rounded streaming of knowledge employing both the video-based learning and article reading straight from trusted news and blogging websites.
+Built for the purpose of promotion for Artificial Intelligence, Towards AI is an enterprise towards a greater focus on product-based AI-centric enthusiasts, bringing all the latest happenings under the field AI, and more generally technology, in one space. This app features an all rounded streaming of knowledge employing both the video-based learning and article reading straight from trusted news sources and blogging websites.
 
 Since todays AI is less consumer-based as compared to an Android application, this project was my first step towards preparing for an article that already sells: an app.
 
