@@ -22,3 +22,10 @@ https://youtu.be/1FJtycfFfaM
 - Listview/ Category page - it lists all the availible videos concerning AI currently availible
 - Embedded Video Player Screen - it plays the youtube videos directly into the app
 - Sliding Navigation Menu - lists all the availible AI newsletters that can be accessed directly within an app
+
+### Future Work
+Followinng are the remaining components that when accomplished would fit for consumer needs, which includes potentially transforming it into my current school's weekly newsletter for school updates and online newsletters.
+
+1. Add a favourites table to enhace user friendly UI.
+2. Connect it to a live computer where content of the app refreshes everytime the database on the live device is updated.
+3. Jumping directly from one video to the next, or in future case, from one newsfeed page to the next without backing to the previous oage to sllect the next feed.
