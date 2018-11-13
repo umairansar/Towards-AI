@@ -55,6 +55,10 @@ https://youtu.be/1FJtycfFfaM
 
 3. I could not pass the name and path of the selected listview item to the VideoPlayer.java activity. Incorrect instantiatiion caused the app crashing.
 
+4. Retaining the aapp to just the Video View is not sufficient to play a YouTube video in the player. To do so will be time-consuming as you will have to copy the magnetic link of the video name which is way more complex than simply copy pasting a portion of the Youtube video URL.
+
+5. 
+
 
 
 ### Future Work
