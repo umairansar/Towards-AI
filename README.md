@@ -44,8 +44,8 @@ https://youtu.be/1FJtycfFfaM
 - Every button click event loads the video name and path to the in-app-embedded media player which loads the Youtube video via internet and plays it in our app.
 
 ### Future Work
-Followinng are the remaining components that when accomplished would fit for consumer needs, which includes potentially transforming it into my current school's weekly newsletter for school updates and article distribution.
+Following are the remaining components that when accomplished would fit for consumer needs, which includes potentially transforming it into my current school's weekly newsletter for school updates and article distribution.
 
 1. Add a favourites table to enhace user friendly UI.
-2. Connect it to a live computer where content of the app refreshes everytime the database on the live device is updated.
-3. Jumping directly from one video to the next, or in future case, from one newsfeed page to the next without backing to the previous oage to select the next feed.
+2. Connect it to a live computer where content of the app refreshes everytime the database on the live device is updated, without the need to reinstall an update everytime new data is added to the app's database.
+3. Jumping directly from one video to the next, or in future case, from one newsfeed page to the next without backing to the previous page to select the next feed.
