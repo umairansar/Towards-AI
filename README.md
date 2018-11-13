@@ -25,7 +25,7 @@ https://youtu.be/1FJtycfFfaM
 - Built-in Webwiew - loads the website links and proides in-app browser experience 
 - SQLite Database - for storing names and paths of YouTube videos.
 
-### Mathedology
+### Mathodology
 - The main activity contains 4 graphic buttons for UI enhancement.
 
 - Clicking these buttons takes us to a new activity having a list of all related videos under that category (of the button clicked).
