@@ -22,6 +22,7 @@ https://youtu.be/1FJtycfFfaM
 - Listview/ Category page - it lists all the availible videos concerning AI currently availible
 - Embedded Video Player Screen - it plays the youtube videos directly into the app
 - Sliding Navigation Menu - lists all the availible AI newsletters that can be accessed directly within an app
+- Builtin Webwiew - loads the website links and proides in-app browser experience 
 - SQLite Database - for storing names and paths of YouTube videos.
 
 ### Mathedology
@@ -42,6 +43,10 @@ https://youtu.be/1FJtycfFfaM
 - Unlike different activities for all 4 video types, each distinct video does not has its own seperate Youtube Media Player activity/class, which would make this project frustratingly memory consuming and slow (it would also make this project development many times difficult and time-consuming)
 
 - Every button click event loads the video name and path to the in-app-embedded media player which loads the Youtube video via internet and plays it in our app.
+
+- Repositioning back to the home page, there is a silder menu which contains button click events (can be thought of as listview OnItemClick event) that jump to a new activity containing Web View.
+
+- This Web View screen loads the path of the url hidden behind the item clicked and displayes the web page, without the need to load the url in external broswer (such as Google Chrome).
 
 ### Chanllenges
 1. The database did not get refreshed and always retained any prior data populated on the last run. This caused the app to crash everytime I innitiated an instance thereafter my first time execution. 
