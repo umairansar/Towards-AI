@@ -43,6 +43,15 @@ https://youtu.be/1FJtycfFfaM
 
 - Every button click event loads the video name and path to the in-app-embedded media player which loads the Youtube video via internet and plays it in our app.
 
+### Chanllenges
+1. The database did not get refreshed and always retained any prior data populated on the last run. This caused the app to crash everytime I innitiated an instance thereafter my first time execution. 
+
+2. The data in the tables also duplicated everytime I rerun the program.
+
+3. I could not pass the name and path of the selected listview item to the VideoPlayer.java activity. Incorrect instantiatiion caused the app crashing.
+
+
+
 ### Future Work
 Following are the remaining components that when accomplished would fit for consumer needs, which includes potentially transforming it into my current school's weekly newsletter for school updates and article distribution.
 
