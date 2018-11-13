@@ -22,7 +22,7 @@ https://youtu.be/1FJtycfFfaM
 - Listview/ Category page - it lists all the availible videos concerning AI currently availible
 - Embedded Video Player Screen - it plays the youtube videos directly into the app
 - Sliding Navigation Menu - lists all the availible AI newsletters that can be accessed directly within an app
-- Builtin Webwiew - loads the website links and proides in-app browser experience 
+- Built-in Webwiew - loads the website links and proides in-app browser experience 
 - SQLite Database - for storing names and paths of YouTube videos.
 
 ### Mathedology
