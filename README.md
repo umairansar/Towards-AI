@@ -48,8 +48,7 @@ https://youtu.be/1FJtycfFfaM
 
 - This Web View screen loads the path of the url hidden behind the item clicked and displayes the web page, without the need to load the url in external broswer (such as Google Chrome).
 
-#### Note :- All the challenges/problems breached below were corrected in this uploaded version of application in this repository. 
-
+#### Note :- All the challenges/problems breached below were removed and corrected in this uploaded version of application in this repository. 
 
 ### Chanllenges
 1. The database did not get refreshed and always retained any prior data populated on the last run. This caused the app to crash everytime I innitiated an instance thereafter my first time execution. 
@@ -63,7 +62,13 @@ https://youtu.be/1FJtycfFfaM
 5. When in the Website activity browising the articles, pressing the back button would quit the activity as a whole - much alike applying back operation on the app screen rather that the website being surfed.
 
 ### Resolutions
+1. Delete any previous rows, using db.delete function, that got loaded in the last run and interfere with the populating of new data. This will prevent any irregular crashing of the program.
 
+2. Using the same commmand as above also clears any prior data, thus preventing unnecessary duplicafion of data everytime a program is run for testin.
+
+3. Avoid calling constructors or methods in between classes to pass on variable data. Instead use the "putExtra" function with an intent to pass any arguments to be processed by the receiver activity.
+
+4. 
 
 
 ### Future Work
