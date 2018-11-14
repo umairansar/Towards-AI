@@ -3,8 +3,10 @@ Built for the purpose of promotion for Artificial Intelligence, Towards AI is an
 
 Since todays AI is less consumer-based as compared to an Android application, this project was my first step towards preparing for an article that already sells: an app.
 
+### Language and Platform
 This production falls under the jurisdiction of M/s Edlytica, a Pakistani startup which serves the developmental solutions at an international platform.
-This app includes the functionality to view the top Machine Learning Channels from YouTube using the Google’s own YouTube API. 
+Devloped in Java using Android Studio as the iDE, this app includes the functionality to view the top Machine Learning Channels from YouTube using the Google’s own YouTube API. 
+
 
 ### Activities
 Follow the link to dive straight into code.
