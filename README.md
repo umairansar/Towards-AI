@@ -48,6 +48,9 @@ https://youtu.be/1FJtycfFfaM
 
 - This Web View screen loads the path of the url hidden behind the item clicked and displayes the web page, without the need to load the url in external broswer (such as Google Chrome).
 
+#### Note :- All the challenges/problems breached below were corrected in this uploaded version of application in this repository. 
+
+
 ### Chanllenges
 1. The database did not get refreshed and always retained any prior data populated on the last run. This caused the app to crash everytime I innitiated an instance thereafter my first time execution. 
 
@@ -55,9 +58,11 @@ https://youtu.be/1FJtycfFfaM
 
 3. I could not pass the name and path of the selected listview item to the VideoPlayer.java activity. Incorrect instantiatiion caused the app crashing.
 
-4. Retaining the aapp to just the Video View is not sufficient to play a YouTube video in the player. To do so will be time-consuming as you will have to copy the magnetic link of the video name which is way more complex than simply copy pasting a portion of the Youtube video URL.
+4. Retaining the app to the Video View alone is not sufficient to play a YouTube video in the player. To do so will be time-consuming as you will have to copy the magnetic link of the video name which is way more complex than simply copy pasting a portion of the Youtube video URL.
 
-5. 
+5. When in the Website activity browising the articles, pressing the back button would quit the activity as a whole - much alike applying back operation on the app screen rather that the website being surfed.
+
+### Resolutions
 
 
 
