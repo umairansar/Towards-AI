@@ -1,5 +1,5 @@
 # Towards-AI
-Built for the purpose of promotion for Artificial Intelligence, Towards AI is an enterprise towards a greater focus on product-based AI-centric enthusiasts, bringing all the latest happenings under the field AI, and more generally technology, in one space. This app features an all rounded streaming of knowledge employing both the video-based learning and article reading straight from trusted news sources and blogging websites.
+Built for the purpose of promotion for Artificial Intelligence, Towards AI is an enterprise towards a greater focus on product-based AI-centric enthusiasts, bringing all the latest happenings in the filed of AI, and more generally technology, in one space. This app features an all rounded streaming of knowledge employing both the video-based learning and article reading straight from trusted news sources and blogging websites.
 
 Since todays AI is less consumer-based as compared to an Android application, this project was my first step towards preparing for an article that already sells: an app.
 
@@ -68,7 +68,9 @@ https://youtu.be/1FJtycfFfaM
 
 3. Avoid calling constructors or methods in between classes to pass on variable data. Instead use the "putExtra" function with an intent to pass any arguments to be processed by the receiver activity.
 
-4. 
+4. YoutubeAPI is necessary to run any youtube video with just its video ID portion from the whole URL. You will need to make a user account on Google Cloud Console which will return an API key which will beussed to authenticate the accessor's identity. Only then it is possible to play lest you opt for inefficient time consuming rmtp link of videos.
+
+5. Implementinng an Overide method of OnBackPressed corrects the issue with exiting activities. It ensures that the back operation is executed on the website's screen instead.
 
 
 ### Future Work
