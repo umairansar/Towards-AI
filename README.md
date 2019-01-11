@@ -8,7 +8,7 @@ This production falls under the jurisdiction of M/s Edlytica, a Pakistani startu
 Devloped in Java using Android Studio as the iDE, this app includes the functionality to view the top Machine Learning Channels from YouTube using the Google’s own YouTube API. 
 
 
-### Activities
+### Code
 Follow the link to dive straight into code.
 
 https://github.com/umairansar/Towards-AI/tree/master/app/src/main/java/com/example/ansarfarid/myapplication
