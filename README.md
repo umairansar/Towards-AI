@@ -52,7 +52,7 @@ https://youtu.be/1FJtycfFfaM
 
 #### Note :- All the challenges/problems breached below were removed and corrected in this uploaded version of application in this repository. 
 
-### Chanllenges
+### Challenges
 1. The database did not get refreshed and always retained any prior data populated on the last run. This caused the app to crash everytime I innitiated an instance thereafter my first time execution. 
 
 2. The data in the tables also duplicated everytime I rerun the program.
